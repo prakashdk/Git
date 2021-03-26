@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Git/static/css/main.a657a209.chunk.css",
+    "main.js": "/Git/static/js/main.c058c1a4.chunk.js",
+    "main.js.map": "/Git/static/js/main.c058c1a4.chunk.js.map",
+    "runtime-main.js": "/Git/static/js/runtime-main.0168353b.js",
+    "runtime-main.js.map": "/Git/static/js/runtime-main.0168353b.js.map",
+    "static/js/2.763b34e5.chunk.js": "/Git/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/Git/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/Git/index.html",
+    "precache-manifest.7335a4f075a2fcc9a1a22d5912eded90.js": "/Git/precache-manifest.7335a4f075a2fcc9a1a22d5912eded90.js",
+    "service-worker.js": "/Git/service-worker.js",
+    "static/css/main.a657a209.chunk.css.map": "/Git/static/css/main.a657a209.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/Git/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Git/static/media/raining.e4d2c1d0.gif",
+    "static/media/wishing.gif": "/Git/static/media/wishing.a07cd567.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0168353b.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.a657a209.chunk.css",
+    "static/js/main.c058c1a4.chunk.js"
+  ]
+}
