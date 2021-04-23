@@ -3,7 +3,7 @@ import "./App.css";
 import Img from './Images/wishing.gif';
 
 function App() {
-  const name="Manoj";
+  const name="Prakash";
   return (
     <>
     <div className="body">
